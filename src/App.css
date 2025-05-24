@@ -93,10 +93,6 @@
   text-wrap: wrap;
 }
 
-.choices, .catselect {
-  font-family: "Roboto"
-}
-
 @media (max-width: 800px){
   .container{
     flex-direction:column;
